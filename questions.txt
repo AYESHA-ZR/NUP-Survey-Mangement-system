@@ -1,0 +1,10 @@
+Question 1: How would you rate the quality of education at the university?
+Question 2: How would you rate the quality of teaching faculty at the university?
+Question 3: How would you rate the library services at the university?
+Question 4: How would you rate the laboratory facilities at the university?
+Question 5: How would you rate the sports and cultural activities at the university?
+Question 6: How would you rate the security arrangements at the university?
+Question 7: How would you rate the hostel facilities at the university?
+Question 8: How would you rate the online services at the university?
+Question 9: How would you rate the administrative staff at the university?
+Question 10: How would you rate the relevance of the curriculum?
