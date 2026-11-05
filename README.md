@@ -1,2 +1,2 @@
-# CPP_OOP_Practice
-C++ programming practice, OOP concepts, problem-solving exercises, and university projects.
+# NUP-SURVEY-MANGEMENT-SYSTEM
+C++ OOP based survey mangement system for the National University Of Pakistan, featuring student feedback, survey rating, result management.
